@@ -1,3 +1,8 @@
 redis
 pyyaml
 dask[complete]
+
+# tqdm
+# ipywidgets
+# IProgress
+#jupyter nbextension enable --py widgetsnbextension
