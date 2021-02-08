@@ -1,6 +1,8 @@
 redis
 pyyaml
 dask[complete]
+msgpack-numpy
+
 
 # tqdm
 # ipywidgets
